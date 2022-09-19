@@ -57,12 +57,12 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189537743-c96f6aad-2080-4f4b-80c8-588387818c00.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/191023980-3f927f10-11e4-48c5-afd9-e6018b3ffde6.png" width="400" title="Autoscript-Lite">
 </p>
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189537802-44dd8bc5-c7e3-43a9-b512-56d809a1eb23.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/191024199-5c324236-54d1-458a-8920-9f03621d1e10.png" width="400" title="Autoscript-Lite">
 </p>
 
 ## ⏩ BUY ME A COFFEE ? ⏪
